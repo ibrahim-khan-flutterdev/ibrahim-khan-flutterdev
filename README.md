@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-khan-flutterdev" alt="ibrahim-khan-flutterdev" /></a> </p>
 
+- 💬 Ask me about **Flutter(Dart)**
+
+- 📫 How to reach me **Khan.Ibrahim1336@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/khanibrahim1336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bhd2HHQsUS1i2ES0q3VCpeg%3D%3D](https://www.linkedin.com/in/khanibrahim1336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bhd2HHQsUS1i2ES0q3VCpeg%3D%3D)
+
+- ⚡ Fun fact **I love to learn about software development**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim khan" height="30" width="40" /></a>
