@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Khan.Ibrahim1336@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/khanibrahim1336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bhd2HHQsUS1i2ES0q3VCpeg%3D%3D](https://www.linkedin.com/in/khanibrahim1336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bhd2HHQsUS1i2ES0q3VCpeg%3D%3D)
+- 📄 Know about my experiences [https://www.linkedin.com/in/khanibrahim1336/](https://www.linkedin.com/in/khanibrahim1336/)
 
 - ⚡ Fun fact **I love to learn about software development**
 
